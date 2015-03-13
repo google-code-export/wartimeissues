@@ -1,0 +1,1 @@
+Issue tracker for wartime the MMORTS game
